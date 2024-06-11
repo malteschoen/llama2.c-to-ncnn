@@ -2,7 +2,7 @@
 
 A converter for llama2.c legacy models to ncnn models. Currently, this is only tested on the 7B and 13B model.
 
-See also [this](https://github.com/Tencent/ncnn/discussions/4985).
+See also [this note by the original author](https://github.com/Tencent/ncnn/discussions/4985) and [the repo of llama2.c](https://github.com/karpathy/llama2.c).
 
 ## Compiling
 
