@@ -2,6 +2,8 @@
 
 A converter for llama2.c legacy models to ncnn models. Currently, this is only tested on the 7B and 13B model.
 
+See also [this](https://github.com/Tencent/ncnn/discussions/4985).
+
 ## Compiling
 
 Set the NCNN_DIR directory to your directory for your ncnn source tree or it will search for ncnn in the parent directory, build ncnn first.<br>
